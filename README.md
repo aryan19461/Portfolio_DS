@@ -1,1 +1,1 @@
-https://aryan-singh19461-portfolio.netlify.app/
+aryan-ds-portfolio.netlify.app
